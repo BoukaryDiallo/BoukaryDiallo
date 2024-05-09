@@ -65,7 +65,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 🌐 &emsp; mobile developer<br/><br/>
+ 🌐 &emsp; Mobile developer<br/><br/>
  🔒 &emsp; Follower of the cybersecurity<br/><br/>
  🤖 &emsp; Python scrapper<br/><br/>
  📧 &emsp; Reach me anytime: BoubakarPI@proton.me<br/><br/>
@@ -104,10 +104,8 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=BoubakarPI&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BoubakarPI/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=BoubakarPI&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BoubakarPI/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=BoubakarPI&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BoubakarPI/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=BoubakarPI&repo=BoubakarPI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BoubakarPI/BoubakarPI)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=BoubakarPI&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BoubakarPI/BoubakarDev)
+[![Boubakar PI Readme](https://github-readme-stats.vercel.app/api/pin/?username=BoubakarPI&repo=BoubakarPI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BoubakarPI/BoubakarPI)
 
 <p align="left">
   <a href="https://github.com/BoubakarPI?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -136,4 +134,4 @@
 </a>
 
 
-![Boubakar PI's Graph](https://github-readme-activity-graph.vercel.app/graph?username=BoubakarPI&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Boubakar PI's Graph](https://github-readme-activity-graph.vercel.app/graph?username=BoubakarPI&custom_title=Boubakar%20PI's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
