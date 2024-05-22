@@ -13,7 +13,7 @@
  -->
 
 <a href="https://komarev.com/ghpvc/?username=BoubakarPI">
-  <img align="right" src="https://komarev.com/ghpvc/?username=BoubakarPI&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=BoubakarPI&label=Visitors&color=0e75b6&style=flat" alt="Profile Visitor" />
 </a>
 
 
