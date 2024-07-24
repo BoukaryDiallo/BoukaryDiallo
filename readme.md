@@ -67,7 +67,7 @@
  🌐 &emsp; Mobile developer<br/><br/>
  🔒 &emsp; Follower of the cybersecurity<br/><br/>
  🤖 &emsp; Python scrapper<br/><br/>
- 📧 &emsp; Reach me anytime: BoubakarPI@uvatis.com<br/><br/>
+ 📧 &emsp; Reach me anytime: Boukary.diallo@uvatis.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/BoubakarPI/BoubakarPI/issues)
 
 
