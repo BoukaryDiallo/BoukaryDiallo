@@ -89,9 +89,9 @@
 
 ### Best frameworks and main libraries :
 
-| NextJS | Selenium | React |
+| Vue | Selenium | React |
 |----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js"  alt="Next.js" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/>|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs" title="VueJs"  alt="VueJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/>|
 
 ### My tools for Data Manipulation:
 
