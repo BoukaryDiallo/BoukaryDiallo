@@ -96,7 +96,7 @@
 ### My tools for Data Manipulation:
 
 | Postgres | Firebase |
-|----------|----------|----------|----------|
+|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="Firebase" alt="Firebase" width="55" height="55"/>|
 
 
