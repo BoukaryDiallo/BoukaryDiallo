@@ -91,7 +91,7 @@
 
 | AdonisJS | Vue | React |
 |----------|----------|----------|
- <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" title="Adonis"  alt="Adonis" width="55" height="55"/>| |  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs"  alt="VueJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/>|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" title="Adonis"  alt="Adonis" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs"  alt="VueJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/>|
 
 ### My tools for Data Manipulation:
 
