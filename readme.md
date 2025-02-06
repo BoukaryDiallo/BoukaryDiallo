@@ -83,7 +83,7 @@
 
 ###
 
-[![committers.top badge](https://user-badge.committers.top/burkina_faso_private/boubakarpi.svg)](https://user-badge.committers.top/burkina_faso_private/serge-eric-kalaga)
+[![committers.top badge](https://user-badge.committers.top/burkina_faso_private/boubakarpi.svg)](https://user-badge.committers.top/burkina_faso_private/boubakarpi)
 
 ###
 
