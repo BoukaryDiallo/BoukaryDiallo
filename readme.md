@@ -77,6 +77,22 @@
 <br/>
 <br/>
 
+###
+
+<h3 align="left">  My ranking of the most active GitHub users in Burkina Faso </h3>
+
+###
+
+[![committers.top badge](https://user-badge.committers.top/burkina_faso_private/boubakarpi.svg)](https://user-badge.committers.top/burkina_faso_private/serge-eric-kalaga)
+
+###
+
+<p align="left">
+  <a href="https://github.com/serge-eric-kalaga?tab=repositories" target="_blank"><img alt="All Repositories" title="My publics repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+
 ## 💻  Main tech knowledge
 
 
