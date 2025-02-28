@@ -21,7 +21,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://uvatis.net">Boubakar PI</a></b>
+                <b><a target="_blank" href="https://uvatis.net">Boukary Diallo</a></b>
         </samp>
 </h3>
 
