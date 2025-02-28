@@ -30,14 +30,14 @@
   <samp>
     <a href="https://www.google.com/search?q=BoubakarPI">「 Google Me 」</a>
     <br>
-    「 I am flutter and Python Developer from <b>Burkina Faso</b> 」
+    「 I am fullstack Developer from <b>Burkina Faso</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://boubakarpi.vercel.app" target="blank">
+ <a href="https://www.uvatis.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="BoubakarPI" />
  </a>
  <a href="https://www.linkedin.com/in/boubakar-pi-a41453230" target="_blank">
