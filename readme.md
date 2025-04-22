@@ -21,7 +21,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://boukary.vercel.app">Boukary Diallo</a></b>
+                <b><a target="_blank" href="https://www.boukary.dev">Boukary Diallo</a></b>
         </samp>
 </h3>
 
