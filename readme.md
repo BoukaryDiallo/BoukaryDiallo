@@ -30,7 +30,7 @@
   <samp>
     <a href="https://www.google.com/search?q=BoubakarPI">「 Google Me 」</a>
     <br>
-    「 I am fullstack Developer from <b>Burkina Faso</b> 」
+    「 I am Developer from <b>Burkina Faso</b> 」
     <br>
     <br>
   </samp>
@@ -58,8 +58,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 🌐 &emsp; Fullstack Developer<br/><br/>
- 🤖 &emsp; Python scrapper<br/><br/>
+ 🌐 &emsp; Developer<br/><br/>
  📧 &emsp; Reach me anytime: Hello@boukary.dev<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/BoubakarPI/BoubakarPI/issues)
 
