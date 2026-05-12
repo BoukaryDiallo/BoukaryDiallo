@@ -21,7 +21,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.boukary.dev">Boukary Diallo</a></b>
+                <b><a target="_blank" href="https://www.uvatis.com">Boukary Diallo</a></b>
         </samp>
 </h3>
 
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
- <a href="https://www.boukary.dev" target="blank">
+ <a href="https://www.uvatis.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Boukary Diallo" />
  </a>
  <a href="https://www.linkedin.com/in/BoukaryDiallo" target="_blank">
@@ -57,7 +57,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  🌐 &emsp; Developer<br/><br/>
- 📧 &emsp; Reach me anytime: Hello@boukary.dev<br/><br/>
+ 📧 &emsp; Reach me anytime: d-boukary@proton.me<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/BoukaryDiallo/BoukaryDiallo/issues)
 
 
